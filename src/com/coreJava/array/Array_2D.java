@@ -33,6 +33,11 @@ public class Array_2D {
 			}
 			System.out.println(" ");
 		}
+		
+		System.out.println("L:"+ a1.length);
+		System.out.println("L:"+ a1[0].length);
+		System.out.println("L:"+ a1[1].length);
+		
 	}
 
 }
